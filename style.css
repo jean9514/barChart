@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  align-items: flex-end;
+  border: black solid 3px;
+  background-color: green;
+}
+
+#box {
+  border: solid black 2px;
+  background-color: pink;
+  width: 6vw;
+}
